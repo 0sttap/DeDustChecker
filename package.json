@@ -1,0 +1,16 @@
+{
+  "name": "de-dust-checker",
+  "version": "1.0.0",
+  "description": "Checker account value for different chains",
+  "main": "checker.js",
+  "scripts": {
+    "start": "node src/checker.js"
+  },
+  "author": "Ostap a.k.a. PatSsso | https://x.com/PatSsso_",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security"
+  }
+}

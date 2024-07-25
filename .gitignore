@@ -1,0 +1,5 @@
+yarn.lock
+node_modules
+.env
+package-lock.json
+src/checker2.js
